@@ -1,13 +1,13 @@
 # Hi, I'm Mason 👋
 
 I'm a software development student learning object-oriented programming.  
-I've completed courses in full-stack web development, SQL databases, C# Windows Forms desktop applications, and C# ASP.NET MVC.
+I've completed courses in full-stack web development, SQL databases, C# Windows Forms desktop applications, C# ASP.NET MVC, and Java for desktop, and android mobile applications.
 
 ### What I'm Currently Working On
-- Finishing my software development program  
+- Finishing my software development program
 
 ### Tools & Technologies
-**Languages:** Python, JavaScript, C#, SQL  
+**Languages:** Java, Python, JavaScript, C#, SQL  
 **Web:** HTML, CSS, Next.js  
 **Other:** Git/GitHub
 
